@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://nataxatochkacom.github.io/todo-app"
+  "homepage": "https://nataxatochkacom.github.io/todo-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
